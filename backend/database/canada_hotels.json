@@ -1,0 +1,1084 @@
+{
+    "hotel": [
+     {
+      "name": "Courtyard Montreal West Island/Baie D’Urfe",
+      "address": "20000 Trans Canada Highway Baie D'Urfe, Quebec H9X 0B3"
+     },
+     {
+      "name": "Fairfield Inn & Suites Barrie",
+      "address": "261 Essa Road Barrie, Ontario L4N 9C7"
+     },
+     {
+      "name": "Four Points by Sheraton Barrie",
+      "address": "60 Bryne Drive Barrie, Ontario L4N 9Y4"
+     },
+     {
+      "name": "Delta Hotels, Mont Sainte-Anne, Resort & Convention Center",
+      "address": "500 Boulevard du Beau Pre Beaupre, Quebec G0A 1E0"
+     },
+     {
+      "name": "Fairfield Inn & Suites Belleville",
+      "address": "407 North Front St. Belleville, Ontario K8P 3C8"
+     },
+     {
+      "name": "TownePlace Suites Belleville",
+      "address": "400 Bell Boulevard Belleville, Ontario K8P 5H8"
+     },
+     {
+      "name": "The Westin Trillium House, Blue Mountain",
+      "address": "220 Gord Canning Drive Blue Mountains, Ontario L9Y 0V9"
+     },
+     {
+      "name": "Courtyard Toronto Brampton",
+      "address": "90 Biscayne Crescent Brampton, Ontario L6W 4S1"
+     },
+     {
+      "name": "Fairfield Inn & Suites Toronto Brampton",
+      "address": "150 Westcreek Blvd. Brampton, Ontario L6T 5V7"
+     },
+     {
+      "name": "TownePlace Suites Brantford and Conference Centre",
+      "address": "30 Fen Ridge Court Brantford, Ontario N3V 1G2"
+     },
+     {
+      "name": "Courtyard Montreal Brossard",
+      "address": "3300 rue de l'Eclipse Brossard, Quebec J4Z 0P5"
+     },
+     {
+      "name": "The Pearle Hotel & Spa, Autograph Collection",
+      "address": "3 Elizabeth Street Burlington, Ontario L7R 0G3"
+     },
+     {
+      "name": "Courtyard Burlington",
+      "address": "1110 Burloak Drive Burlington, Ontario L7L 6P8"
+     },
+     {
+      "name": "Delta Hotels Burnaby Conference Centre",
+      "address": "4331 Dominion Street Burnaby, British Columbia V5G 1C7"
+     },
+     {
+      "name": "Element Vancouver Metrotown",
+      "address": "5988 Willingdon Avenue Burnaby, British Columbia V5H 2A7"
+     },
+     {
+      "name": "The Dorian, Autograph Collection",
+      "address": "525 5th Avenue SW Calgary, Alberta T2P 1P7"
+     },
+     {
+      "name": "Courtyard Calgary Airport",
+      "address": "2500 48th Avenue NE Calgary, Alberta T3J 4V8"
+     },
+     {
+      "name": "Courtyard Calgary Downtown",
+      "address": "525 5th Avenue SW Calgary, Alberta T2P 1P7"
+     },
+     {
+      "name": "Courtyard Calgary South",
+      "address": "3750 Market Street SE Calgary, Alberta T3M 2P2"
+     },
+     {
+      "name": "Delta Hotels Calgary Airport In-Terminal",
+      "address": "2001 Airport Road NE Calgary, Alberta T2E 6Z8"
+     },
+     {
+      "name": "Delta Hotels Calgary Downtown",
+      "address": "209 Fourth Avenue SE Calgary, Alberta T2G 0C6"
+     },
+     {
+      "name": "Delta Hotels Calgary South",
+      "address": "135 Southland Drive SE Calgary, Alberta T2J 5X5"
+     },
+     {
+      "name": "Fairfield Inn & Suites Calgary Downtown",
+      "address": "239 12th Avenue SW Calgary, Alberta T2R 1H7"
+     },
+     {
+      "name": "Calgary Airport Marriott In-Terminal Hotel",
+      "address": "2008 Airport Road NE Calgary, Alberta T2E 3B9"
+     },
+     {
+      "name": "Calgary Marriott Downtown Hotel",
+      "address": "110 9th Avenue SE Calgary, Alberta T2G 5A6"
+     },
+     {
+      "name": "Residence Inn Calgary Airport",
+      "address": "2530 48th Avenue NE Calgary, Alberta T3J 4V8"
+     },
+     {
+      "name": "Residence Inn Calgary Downtown/Beltline District",
+      "address": "610 10th Avenue SW Calgary, Alberta T2R 1M3"
+     },
+     {
+      "name": "Residence Inn Calgary South",
+      "address": "3710 Market Street SE. Calgary, Alberta T3M 2P2"
+     },
+     {
+      "name": "Aloft Calgary University",
+      "address": "2359 Banff Trail NW Calgary, Alberta T2M-4L2"
+     },
+     {
+      "name": "Element Calgary Airport",
+      "address": "2855 Sunridge Way NE Calgary, Alberta T1Y 7K7"
+     },
+     {
+      "name": "Four Points by Sheraton Calgary Airport",
+      "address": "2875 Sunridge Way NE Calgary, Alberta T1Y 7K7"
+     },
+     {
+      "name": "Four Points by Sheraton Hotel & Suites Calgary West",
+      "address": "8220 Bowridge Crescent NW Calgary, Alberta T3B 2V1"
+     },
+     {
+      "name": "Sheraton Cavalier Calgary Hotel",
+      "address": "2620 32nd Avenue NE Calgary, Alberta T1Y 6B8"
+     },
+     {
+      "name": "Sheraton Suites Calgary Eau Claire",
+      "address": "255 Barclay Parade SW Calgary, Alberta T2P 5C2"
+     },
+     {
+      "name": "The Westin Calgary",
+      "address": "320 4th Avenue SW Calgary, Alberta T2P 2S6"
+     },
+     {
+      "name": "The Westin Calgary Airport",
+      "address": "671 Aero Drive NE Calgary, Alberta T2E7Y5"
+     },
+     {
+      "name": "Four Points by Sheraton Cambridge Kitchener, Ontario",
+      "address": "210 Preston Parkway Cambridge, Ontario N3H 5N1"
+     },
+     {
+      "name": "Delta Hotels Prince Edward",
+      "address": "18 Queen Street Charlottetown, Prince Edward Island C1A 4A1"
+     },
+     {
+      "name": "Courtyard Halifax Dartmouth",
+      "address": "35 Shubie Drive Dartmouth, Nova Scotia B3B 0N4"
+     },
+     {
+      "name": "Delta Hotels Dartmouth",
+      "address": "240 Brownlow Avenue Dartmouth, Nova Scotia B3B 1X6"
+     },
+     {
+      "name": "Residence Inn Halifax Dartmouth",
+      "address": "35 Shubie Drive Dartmouth, Nova Scotia B3B 0N4"
+     },
+     {
+      "name": "Montreal Airport Marriott In-Terminal Hotel",
+      "address": "800 Place Leigh Capreol Dorval, Quebec H4Y 0A4"
+     },
+     {
+      "name": "Courtyard Edmonton Downtown",
+      "address": "One Thornton Court, 99 Street and Jasper Avenue Edmonton, Alberta T5J 2E7"
+     },
+     {
+      "name": "Courtyard Edmonton West",
+      "address": "10011 184th Street NW Edmonton, Alberta T5S 0C7"
+     },
+     {
+      "name": "Delta Hotels Edmonton Centre Suites",
+      "address": "10222 102 Street Edmonton, Alberta T5J 4C5"
+     },
+     {
+      "name": "Delta Hotels Edmonton South Conference Centre",
+      "address": "4404 Gateway Boulevard NW Edmonton, Alberta T6H 5C2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Edmonton North",
+      "address": "581 Griesbach Parade NW Edmonton, Alberta T5E6W1"
+     },
+     {
+      "name": "JW Marriott Edmonton ICE District",
+      "address": "10344 102nd Street Edmonton, Alberta T5J 0K9"
+     },
+     {
+      "name": "Element Edmonton West",
+      "address": "18540 100 Avenue NW Edmonton, Alberta T5S 0K6"
+     },
+     {
+      "name": "Four Points by Sheraton Edmonton Gateway",
+      "address": "10010, 12th Avenue SW Edmonton, Alberta T6X 0P9"
+     },
+     {
+      "name": "Four Points by Sheraton Edmonton South",
+      "address": "7230 Argyll Road Edmonton, Alberta T6C 4A6"
+     },
+     {
+      "name": "Four Points by Sheraton Edmonton West",
+      "address": "18540 100 Avenue NW Edmonton, Alberta T5S 0K6"
+     },
+     {
+      "name": "TownePlace Suites Edmonton South",
+      "address": "1115 103A Street SW Edmonton, Alberta T6W 2P6"
+     },
+     {
+      "name": "The Westin Edmonton",
+      "address": "10135 100th Street Edmonton, Alberta T5J 0N7"
+     },
+     {
+      "name": "Fairfield by Marriott Edmonton International Airport",
+      "address": "4545 Airport Perimeter Road Edmonton International Airport, Alberta T9E OV6"
+     },
+     {
+      "name": "Renaissance Edmonton Airport Hotel",
+      "address": "4236 36th Street East Edmonton International Airport, Alberta T9E 0V4"
+     },
+     {
+      "name": "Four Points by Sheraton Edmundston Hotel & Conference Center",
+      "address": "100 rue Rice Edmundston, New Brunswick E3V 1T4"
+     },
+     {
+      "name": "TownePlace Suites Fort McMurray",
+      "address": "321 Sakitawaw Trail Fort McMurray, Alberta T9H 5E7"
+     },
+     {
+      "name": "Delta Hotels Fredericton",
+      "address": "225 Woodstock Road Fredericton, New Brunswick E3B 2H8"
+     },
+     {
+      "name": "Four Points by Sheraton Hotel & Conference Centre Gatineau-Ottawa",
+      "address": "35 Rue Laurier Gatineau, Quebec J8X 4E9"
+     },
+     {
+      "name": "Delta Hotels Grande Prairie Airport",
+      "address": "11700 99 Avenue Grande Prairie, Alberta T8W 0C7"
+     },
+     {
+      "name": "Four Points by Sheraton Grande Prairie",
+      "address": "6702 106 Street Grande Prairie, Alberta T8W 0K8"
+     },
+     {
+      "name": "Residence Inn Gravenhurst Muskoka Wharf",
+      "address": "285 Steamship Bay Road Gravenhurst, Ontario P1P 1Z9"
+     },
+     {
+      "name": "Delta Hotels Guelph Conference Centre",
+      "address": "50 Stone Road West Guelph, Ontario N1G 0A9"
+     },
+     {
+      "name": "Fairfield Inn & Suites Guelph",
+      "address": "35 Cowan Place Guelph, Ontario N1G 0C1"
+     },
+     {
+      "name": "Muir, Autograph Collection",
+      "address": "1709 Lower Water Street Halifax, Nova Scotia B3J 1S5"
+     },
+     {
+      "name": "Courtyard Halifax Downtown",
+      "address": "5120 Salter Street Halifax, Nova Scotia B3J 0A1"
+     },
+     {
+      "name": "Halifax Marriott Harbourfront Hotel",
+      "address": "1919 Upper Water Street Halifax, Nova Scotia B3J 3J5"
+     },
+     {
+      "name": "Residence Inn Halifax Downtown",
+      "address": "1599 Grafton St. Halifax, Nova Scotia B3J 2C3"
+     },
+     {
+      "name": "Four Points by Sheraton Halifax",
+      "address": "1496 Hollis Street Halifax, Nova Scotia B3J 3Z1"
+     },
+     {
+      "name": "The Westin Nova Scotian",
+      "address": "1181 Hollis Street Halifax, Nova Scotia B3H 2P6"
+     },
+     {
+      "name": "Courtyard Hamilton",
+      "address": "1224 Upper James Street Hamilton, Ontario L9C3B1"
+     },
+     {
+      "name": "Four Points by Sheraton Hamilton - Stoney Creek",
+      "address": "49 Goderich Road Hamilton, Ontario L8E 4W8"
+     },
+     {
+      "name": "Sheraton Hamilton Hotel",
+      "address": "116 King Street West Hamilton, Ontario L8P 4V3"
+     },
+     {
+      "name": "TownePlace Suites Hamilton",
+      "address": "1195 Upper James Street Hamilton, Ontario L9C 3B2"
+     },
+     {
+      "name": "Delta Hotels Saguenay Conference Centre",
+      "address": "2675 Boul Du Royaume Jonquiere, Quebec G7S 5B8"
+     },
+     {
+      "name": "Delta Hotels Kamloops",
+      "address": "540 Victoria Street Kamloops, British Columbia V2C 2B2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Kamloops",
+      "address": "1475 Hugh Allan Drive Kamloops, British Columbia V1S 1J3"
+     },
+     {
+      "name": "Kananaskis Mountain Lodge, Autograph Collection",
+      "address": "1 Centennial Drive Kananaskis Village, Alberta T0L 2H0"
+     },
+     {
+      "name": "Fairfield Inn & Suites Ottawa Kanata",
+      "address": "578 Terry Fox Drive Kanata, Ontario K2L 4G8"
+     },
+     {
+      "name": "TownePlace Suites Ottawa Kanata",
+      "address": "1251 Maritime Way Kanata, Ontario K2K 0J6"
+     },
+     {
+      "name": "Delta Hotels by Marriott Grand Okanagan Resort",
+      "address": "1310 Water Street Kelowna, British Columbia V1Y 9P3"
+     },
+     {
+      "name": "Fairfield Inn & Suites Kelowna",
+      "address": "1655 - Powick Rd. Kelowna, British Columbia V1X-4L1"
+     },
+     {
+      "name": "Four Points by Sheraton Kelowna Airport",
+      "address": "5505 Airport Way Kelowna, British Columbia V1V 3C3"
+     },
+     {
+      "name": "TownePlace Suites Kincardine",
+      "address": "19 Millenium Way Kincardine, Ontario N2Z 0B5"
+     },
+     {
+      "name": "Courtyard Kingston Highway 401/Division Street",
+      "address": "103 Dalton Avenue Kingston, Ontario K7K 0C4"
+     },
+     {
+      "name": "Delta Hotels Kingston Waterfront",
+      "address": "1 Johnson Street Kingston, Ontario K7L 5H7"
+     },
+     {
+      "name": "Residence Inn Kingston Water's Edge",
+      "address": "7 Earl Street Kingston, Ontario K7L 0A4"
+     },
+     {
+      "name": "Four Points by Sheraton Kingston",
+      "address": "285 King Street East Kingston, Ontario K7L 3B1"
+     },
+     {
+      "name": "Sheraton Laval Hotel",
+      "address": "2440 Autoroute des Laurentides Laval, Quebec H7T 1X5"
+     },
+     {
+      "name": "Fairfield Inn & Suites Lethbridge",
+      "address": "4081 2nd Avenue South Lethbridge, Alberta T1J 1Z2"
+     },
+     {
+      "name": "Four Points by Sheraton Lévis Convention Centre",
+      "address": "5800 Rue J. B. Michaud Levis, Quebec G6V 0B3"
+     },
+     {
+      "name": "Courtyard London",
+      "address": "864 Exeter Road London, Ontario N6E 1L5"
+     },
+     {
+      "name": "Delta Hotels London Armouries",
+      "address": "325 Dundas Street London, Ontario N6B 1T9"
+     },
+     {
+      "name": "Residence Inn London Downtown",
+      "address": "383 Colborne Street London, Ontario N6B 3P5"
+     },
+     {
+      "name": "Four Points by Sheraton London",
+      "address": "1150 Wellington Road South London, Ontario N6E 1M3"
+     },
+     {
+      "name": "TownePlace Suites London",
+      "address": "800 Exeter Road London, Ontario N6E 1L5"
+     },
+     {
+      "name": "Courtyard Toronto Markham",
+      "address": "65 Minthorn Boulevard Markham, Ontario L3T 7Y9"
+     },
+     {
+      "name": "Courtyard Toronto Northeast/Markham",
+      "address": "7095 Woodbine Avenue Markham, Ontario L3R 1A3"
+     },
+     {
+      "name": "Toronto Marriott Markham",
+      "address": "170 Enterprise Boulevard Markham, Ontario L6G 0E6"
+     },
+     {
+      "name": "Residence Inn Toronto Markham",
+      "address": "55 Minthorn Blvd Markham, Ontario L3T 7Y9"
+     },
+     {
+      "name": "TownePlace Suites Toronto Northeast/Markham",
+      "address": "7095 Woodbine Ave. Markham, Ontario L3R 1A3"
+     },
+     {
+      "name": "TownePlace Suites Medicine Hat",
+      "address": "#7 Stober Bay Medicine Hat, Alberta T1B 4Y2"
+     },
+     {
+      "name": "Courtyard Mississauga-Airport Corporate Centre West",
+      "address": "5050 Creekbank Road Mississauga, Ontario L4W 5R2"
+     },
+     {
+      "name": "Courtyard Toronto Mississauga/Meadowvale",
+      "address": "7015 Century Avenue Mississauga, Ontario L5N 7K2"
+     },
+     {
+      "name": "Courtyard Toronto Mississauga/West",
+      "address": "290 Derry Road West Mississauga, Ontario L5W 1N6"
+     },
+     {
+      "name": "Delta Hotels Toronto Mississauga",
+      "address": "3670 Hurontario Street Mississauga, Ontario L5B 1P3"
+     },
+     {
+      "name": "Fairfield Inn & Suites Toronto Airport",
+      "address": "3299 Caroga Drive Mississauga, Ontario L4V 1A3"
+     },
+     {
+      "name": "Fairfield Inn & Suites Toronto Mississauga",
+      "address": "35 Courtneypark Drive West Mississauga, Ontario L5W 0E3"
+     },
+     {
+      "name": "Residence Inn Mississauga-Airport Corporate Centre West",
+      "address": "5070 Creekbank Rd. Mississauga, Ontario L4W 5R2"
+     },
+     {
+      "name": "Residence Inn Toronto Mississauga Southwest",
+      "address": "2145 North Sheridan Way Mississauga, Ontario L5K 1A3"
+     },
+     {
+      "name": "Residence Inn Toronto Mississauga West",
+      "address": "55 Courtneypark Drive West Mississauga, Ontario L5W 0E3"
+     },
+     {
+      "name": "Residence Inn Toronto Mississauga/Meadowvale",
+      "address": "7005 Century Avenue Mississauga, Ontario L5N 7K2"
+     },
+     {
+      "name": "Element Toronto Airport",
+      "address": "6257 Airport Road Mississauga, Ontario L4V 1E4"
+     },
+     {
+      "name": "Four Points by Sheraton Mississauga Meadowvale",
+      "address": "2501 Argentia Road Mississauga, Ontario L5N 4G8"
+     },
+     {
+      "name": "Four Points by Sheraton Toronto Airport",
+      "address": "6257 Airport Road Mississauga, Ontario L4V 1E4"
+     },
+     {
+      "name": "Four Points by Sheraton Toronto Mississauga",
+      "address": "6090 Dixie Road Mississauga, Ontario L5T 1A6"
+     },
+     {
+      "name": "TownePlace Suites Mississauga-Airport Corporate Centre",
+      "address": "5050 Orbitor Drive Mississauga, Ontario L4W 4X2"
+     },
+     {
+      "name": "Delta Hotels Beausejour",
+      "address": "750 Main Street Moncton, New Brunswick E1C 1E6"
+     },
+     {
+      "name": "Fairfield Inn & Suites Moncton",
+      "address": "26 Marriott Drive Moncton, New Brunswick E1A 7S4"
+     },
+     {
+      "name": "Residence Inn Moncton",
+      "address": "600 Main Street Moncton, New Brunswick E1C 0M6"
+     },
+     {
+      "name": "Four Points by Sheraton Moncton",
+      "address": "40 Lady Ada Boulevard Moncton, New Brunswick E1G 0E3"
+     },
+     {
+      "name": "Le Westin Tremblant",
+      "address": "100 Chemin Kandahar Mont Tremblant, Quebec J8E 1E2"
+     },
+     {
+      "name": "Residence Inn Mont Tremblant Manoir Labelle",
+      "address": "170 Chemin Cure Deslauriers Mont-Tremblant, Quebec J8E 1C9"
+     },
+     {
+      "name": "AC Hotel Montreal Downtown",
+      "address": "250 René-Lévesque Boulevard West Montreal, Quebec H2Z 1Z8"
+     },
+     {
+      "name": "Humaniti Hotel Montreal, Autograph Collection",
+      "address": "340 de la Gauchetiere O Montreal, Quebec H2Z0C3"
+     },
+     {
+      "name": "Courtyard Montreal Airport",
+      "address": "7000 Place Robert-Joncas Montreal, Quebec H4M 2Z5"
+     },
+     {
+      "name": "Courtyard Montreal Downtown",
+      "address": "380 Rene-Levesque Boulevard West Montreal, Quebec H2Z 0A6"
+     },
+     {
+      "name": "Courtyard Montreal Midtown",
+      "address": "6787 Decarie Boulevard Montreal, Quebec H3W 3E3"
+     },
+     {
+      "name": "Delta Hotels Montreal",
+      "address": "475 President-Kennedy Avenue Montreal, Quebec H3A 1J7"
+     },
+     {
+      "name": "Fairfield by Marriott Montreal Downtown",
+      "address": "1199 Rue Berri Montreal, Quebec H2L 4C6"
+     },
+     {
+      "name": "Fairfield Inn & Suites Montreal Airport",
+      "address": "700 Avenue Michel Jasmin Montreal, Quebec H9P1C5"
+     },
+     {
+      "name": "Montreal Marriott Chateau Champlain",
+      "address": "1050 de la Gauchetiere West Montreal, Quebec H3B 4C9"
+     },
+     {
+      "name": "Renaissance Montreal Downtown Hotel",
+      "address": "1250 Boulevard Robert-Bourassa Montreal, Quebec H3B 3B8"
+     },
+     {
+      "name": "Residence Inn Montreal Airport",
+      "address": "6500 Place Robert-Joncas Montreal, Quebec H4M2Z5"
+     },
+     {
+      "name": "Residence Inn Montreal Downtown",
+      "address": "2045 Rue Peel Montreal, Quebec H3A 1T6"
+     },
+     {
+      "name": "Residence Inn Montreal Midtown",
+      "address": "6785 Decarie Boulevard Montreal, Quebec H3W 3E3"
+     },
+     {
+      "name": "Residence Inn Montreal Westmount",
+      "address": "2170 Lincoln Avenue Montreal, Quebec H3H 2N5"
+     },
+     {
+      "name": "The Ritz-Carlton, Montreal",
+      "address": "1228 Sherbrooke St.West Montreal, Quebec H3G 1H6"
+     },
+     {
+      "name": "Aloft Montreal Airport",
+      "address": "500 McMillan Ave. Montreal, Quebec H9P 0A2"
+     },
+     {
+      "name": "Hotel St. Paul, Montreal, a Member of Design Hotels™",
+      "address": "355, rue McGill Montreal, Quebec H2Y 2E8"
+     },
+     {
+      "name": "Le Méridien Versailles",
+      "address": "1808 rue Sherbrooke Ouest Montreal, Quebec H3H 1E5"
+     },
+     {
+      "name": "Le Centre Sheraton Montreal Hotel",
+      "address": "1201 Boulevard Rene-Levesque West Montreal, Quebec H3B 2L7"
+     },
+     {
+      "name": "Sheraton Montreal Airport Hotel",
+      "address": "555 Boulevard McMillan Montreal, Quebec H9P 1B7"
+     },
+     {
+      "name": "W Montreal",
+      "address": "901 Square Victoria Montreal, Quebec H2Z 1R1"
+     },
+     {
+      "name": "Le Westin Montreal",
+      "address": "270 Saint-Antoine Ouest Montreal, Quebec H2Y 0A3"
+     },
+     {
+      "name": "SpringHill Suites Old Montreal",
+      "address": "445 Rue Saint-Jean-Baptiste Montreal (Vieux Montreal), Quebec H2Y 2Z7"
+     },
+     {
+      "name": "JW Marriott The Rosseau Muskoka Resort & Spa",
+      "address": "1050 Paignton House Road, Minett Muskoka Lakes, Ontario P0B 1G0"
+     },
+     {
+      "name": "Courtyard Niagara Falls",
+      "address": "5950 Victoria Ave Niagara Falls, Ontario L2G 3L7"
+     },
+     {
+      "name": "Fairfield Niagara Falls, Canada",
+      "address": "5257 Ferry Street Niagara Falls, Ontario L2G 1R6"
+     },
+     {
+      "name": "Niagara Falls Marriott Fallsview Hotel & Spa",
+      "address": "6740 Fallsview Blvd Niagara Falls, Ontario L2G 3W6"
+     },
+     {
+      "name": "Niagara Falls Marriott on the Falls",
+      "address": "6755 Fallsview Boulevard Niagara Falls, Ontario L2G 3W7"
+     },
+     {
+      "name": "Four Points by Sheraton Niagara Falls Fallsview",
+      "address": "6455 Fallsview Boulevard Niagara Falls, Ontario L2G 3V9"
+     },
+     {
+      "name": "Sheraton Fallsview Hotel",
+      "address": "5875 Falls Avenue Niagara Falls, Ontario L2G 3K7"
+     },
+     {
+      "name": "Four Points by Sheraton Edmonton International Airport",
+      "address": "403 11th Avenue Nisku, Alberta T9E 7N2"
+     },
+     {
+      "name": "Fairfield Inn & Suites North Bay",
+      "address": "115 Eloy Road North Bay, Ontario P1B9T9"
+     },
+     {
+      "name": "Fairfield Inn Toronto Oakville",
+      "address": "2937 Sherwood Heights Drive Oakville, Ontario L6J 7L3"
+     },
+     {
+      "name": "TownePlace Suites Toronto Oakville",
+      "address": "754 Bronte Road Oakville, Ontario L6L 6R8"
+     },
+     {
+      "name": "Fairfield Inn & Suites Orillia",
+      "address": "8 Mulcahy Court Orillia, Ontario L3V 8B3"
+     },
+     {
+      "name": "Courtyard Oshawa",
+      "address": "1011 Bloor Street East Oshawa, Ontario L1H 7K6"
+     },
+     {
+      "name": "TownePlace Suites Oshawa",
+      "address": "1011 Bloor Street East Oshawa, Ontario L1H 7K6"
+     },
+     {
+      "name": "Courtyard Ottawa Downtown",
+      "address": "350 Dalhousie Street Ottawa, Ontario K1N 7E9"
+     },
+     {
+      "name": "Courtyard Ottawa East",
+      "address": "200 Coventry Road Ottawa, Ontario K1K 4S3"
+     },
+     {
+      "name": "Delta Hotels Ottawa City Centre",
+      "address": "101 Lyon Street North Ottawa, Ontario K1R 5T9"
+     },
+     {
+      "name": "Fairfield Inn & Suites Ottawa Airport",
+      "address": "135 Thad Johnson Private Ottawa, Ontario K1V-1A2"
+     },
+     {
+      "name": "Ottawa Marriott Hotel",
+      "address": "100 Kent Street Ottawa, Ontario K1P 5R7"
+     },
+     {
+      "name": "Residence Inn Ottawa Airport",
+      "address": "1172 Walkley Road Ottawa, Ontario K1V 2P7"
+     },
+     {
+      "name": "Sheraton Ottawa Hotel",
+      "address": "150 Albert Street Ottawa, Ontario K1P 5G2"
+     },
+     {
+      "name": "The Westin Ottawa",
+      "address": "11 Colonel By Drive Ottawa, Ontario K1N 9H4"
+     },
+     {
+      "name": "Fairfield Inn & Suites Penticton",
+      "address": "602 Eckhardt Avenue West Penticton, British Columbia V2A 2B5"
+     },
+     {
+      "name": "TownePlace Suites Petawawa",
+      "address": "160 Town Centre Boulevard Petawawa, Ontario K8H 0H1"
+     },
+     {
+      "name": "Courtyard Prince George",
+      "address": "900 Brunswick Street Prince George, British Columbia V2L 2C3"
+     },
+     {
+      "name": "Four Points by Sheraton Prince George",
+      "address": "1790 Highway 97 South Prince George, British Columbia V2L 5L3"
+     },
+     {
+      "name": "Courtyard Quebec City",
+      "address": "900 des Rocailles Quebec City, Quebec G2J 1A5"
+     },
+     {
+      "name": "Delta Hotels Quebec",
+      "address": "690 Boul René Lévesque Est Quebec City, Quebec G1R 5A8"
+     },
+     {
+      "name": "Quebec City Marriott Downtown",
+      "address": "850 Place D'Youville Quebec City, Quebec G1R 3P6"
+     },
+     {
+      "name": "Hotel PUR, Quebec, a Tribute Portfolio Hotel",
+      "address": "395 Rue de la Couronne Quebec City, Quebec G1K 7X4"
+     },
+     {
+      "name": "TownePlace Suites Red Deer",
+      "address": "6822 - 66th Street Red Deer, Alberta T4P 3T5"
+     },
+     {
+      "name": "The Hotel Saskatchewan, Autograph Collection",
+      "address": "2125 Victoria Avenue Regina, Saskatchewan S4P 0S3"
+     },
+     {
+      "name": "Delta Hotels Regina",
+      "address": "1919 Saskatchewan Drive Regina, Saskatchewan S4P 4H2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Regina",
+      "address": "3915 Albert Street Regina, Saskatchewan S4S 3R4"
+     },
+     {
+      "name": "Residence Inn Regina",
+      "address": "1506 Pasqua Street Regina, Saskatchewan S4T 1Y6"
+     },
+     {
+      "name": "Four Points by Sheraton Regina",
+      "address": "2415 Dewdney Avenue Regina, Saskatchewan S4R 8R2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Revelstoke",
+      "address": "1730 Trans Canada Highway Revelstoke, British Columbia V0E 2S0"
+     },
+     {
+      "name": "Vancouver Airport Marriott Hotel",
+      "address": "7571 Westminster Highway Richmond, British Columbia V6X1A3"
+     },
+     {
+      "name": "Four Points by Sheraton Vancouver Airport",
+      "address": "8368 Alexandra Road Richmond, British Columbia V6X 4A6"
+     },
+     {
+      "name": "Sheraton Vancouver Airport Hotel",
+      "address": "7551 Westminster Highway Richmond, British Columbia V6X 1A3"
+     },
+     {
+      "name": "The Westin Wall Centre, Vancouver Airport",
+      "address": "3099 Corvette Way Richmond, British Columbia V6X 4K3"
+     },
+     {
+      "name": "Sheraton Parkway Toronto North Hotel & Suites",
+      "address": "600 Highway 7 Richmond Hill, Ontario L4B 1B2"
+     },
+     {
+      "name": "The Josie Hotel, Autograph Collection",
+      "address": "4306 Red Mountain Road Rossland, British Columbia V0G 1Y0"
+     },
+     {
+      "name": "Delta Hotels Saint John",
+      "address": "39 King Street Saint John, New Brunswick E2L 4W3"
+     },
+     {
+      "name": "Sheraton Saint-Hyacinthe Hotel",
+      "address": "1315, rue Daniel-Johnson O. Saint-Hyacinthe, Quebec J2S 8S4"
+     },
+     {
+      "name": "Fairfield Inn & Suites Salmon Arm",
+      "address": "790 16th Street Northeast Salmon Arm, British Columbia V1E 2S5"
+     },
+     {
+      "name": "The Insignia Hotel, Sarnia, a Tribute Portfolio Hotel",
+      "address": "283 Christina Street North Sarnia, Ontario N7T 5V4"
+     },
+     {
+      "name": "Courtyard Saskatoon Airport",
+      "address": "333 Aerogreen Crescent Saskatoon, Saskatchewan S7L 1S4"
+     },
+     {
+      "name": "Delta Hotels Bessborough",
+      "address": "601 Spadina Crescent East Saskatoon, Saskatchewan S7K 3G8"
+     },
+     {
+      "name": "Delta Hotels Saskatoon Downtown",
+      "address": "405 20th Street East Saskatoon, Saskatchewan S7K 6X6"
+     },
+     {
+      "name": "Four Points by Sheraton Saskatoon",
+      "address": "503 Cope Way Saskatoon, Saskatchewan S7T 0G3"
+     },
+     {
+      "name": "Sheraton Cavalier Saskatoon Hotel",
+      "address": "612 Spadina Crescent East Saskatoon, Saskatchewan S7K 3G9"
+     },
+     {
+      "name": "TownePlace Suites Saskatoon",
+      "address": "247 Willis Crescent Saskatoon, Saskatchewan S7T 0V2"
+     },
+     {
+      "name": "Delta Hotels Sault Ste. Marie Waterfront",
+      "address": "208 St Mary's River Drive Sault Ste. Marie, Ontario P6A 5V4"
+     },
+     {
+      "name": "Fairfield Inn & Suites Sault Ste. Marie",
+      "address": "633 Great Northern Road Sault Ste. Marie, Ontario P6B 5A1"
+     },
+     {
+      "name": "Delta Hotels Sherbrooke Conference Centre",
+      "address": "2685 Rue King Ouest Sherbrooke, Quebec J1L 1C1"
+     },
+     {
+      "name": "Four Points by Sheraton Sherwood Park",
+      "address": "1005 Provincial Avenue Sherwood Park, Alberta T8H 0Y7"
+     },
+     {
+      "name": "TownePlace Suites Edmonton Sherwood Park",
+      "address": "1001 Provincial Avenue Sherwood Park, Alberta T8H 0Y7"
+     },
+     {
+      "name": "The Algonquin Resort St. Andrews by-the-Sea, Autograph Collection",
+      "address": "184 Adolphus Street St Andrews, New Brunswick E5B 1T7"
+     },
+     {
+      "name": "Courtyard St. John's Newfoundland",
+      "address": "131 Duckworth Street St. John's, Canada A1C 1E9"
+     },
+     {
+      "name": "Delta Hotels St. John's Conference Centre",
+      "address": "120 New Gower Street St. John's, Canada A1C 6K4"
+     },
+     {
+      "name": "Fairfield Inn & Suites St. John's Newfoundland",
+      "address": "199 Kenmount Road St. John's, Canada A1B 3P9"
+     },
+     {
+      "name": "Sheraton Hotel Newfoundland",
+      "address": "115 Cavendish Square St. Johns, Canada A1C 3K2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Sudbury",
+      "address": "490 Barrydowne Rd. Sudbury, Ontario P3A 3T3"
+     },
+     {
+      "name": "TownePlace Suites Sudbury",
+      "address": "1710 The Kingsway Sudbury, Ontario P3B 0E4"
+     },
+     {
+      "name": "Civic Hotel, Autograph Collection",
+      "address": "13475 Central Avenue Surrey, British Columbia V3T 0L8"
+     },
+     {
+      "name": "Four Points by Sheraton Surrey",
+      "address": "10410 158th Street Surrey, British Columbia V4N 5C2"
+     },
+     {
+      "name": "Sheraton Vancouver Guildford Hotel",
+      "address": "15269 104th Avenue Surrey, British Columbia V3R 1N5"
+     },
+     {
+      "name": "Four Points by Sheraton St. Catharines Niagara Suites",
+      "address": "3530 Schmon Parkway Thorold, Ontario L2V 4Y6"
+     },
+     {
+      "name": "Delta Hotels Thunder Bay",
+      "address": "2240 Sleeping Giant Parkway Thunder Bay, Ontario P7A 0E7"
+     },
+     {
+      "name": "TownePlace Suites Thunder Bay",
+      "address": "550 Harbour Expressway Thunder Bay, Ontario P7B 6P4"
+     },
+     {
+      "name": "Courtyard Toronto Airport",
+      "address": "231 Carlingview Drive Toronto, Ontario M9W 5E8"
+     },
+     {
+      "name": "Courtyard Toronto Downtown",
+      "address": "475 Yonge Street Toronto, Ontario M4Y 1X7"
+     },
+     {
+      "name": "Courtyard Toronto Vaughan",
+      "address": "150 Interchange Way Toronto, Ontario L4K5P7"
+     },
+     {
+      "name": "Delta Hotels Toronto",
+      "address": "75 Lower Simcoe Street Toronto, Ontario M5J 3A6"
+     },
+     {
+      "name": "Delta Hotels Toronto Airport & Conference Centre",
+      "address": "655 Dixon Road Toronto, Ontario M9W 1J3"
+     },
+     {
+      "name": "Delta Hotels Toronto East",
+      "address": "2035 Kennedy Road Toronto, Ontario M1T 3G2"
+     },
+     {
+      "name": "Marriott Downtown at CF Toronto Eaton Centre",
+      "address": "525 Bay Street Toronto, Ontario M5G 2L2"
+     },
+     {
+      "name": "Toronto Airport Marriott Hotel",
+      "address": "901 Dixon Road Toronto, Ontario M9W 1J5"
+     },
+     {
+      "name": "Toronto Marriott City Centre Hotel",
+      "address": "One Blue Jays Way Toronto, Ontario M5V 1J4"
+     },
+     {
+      "name": "Residence Inn Toronto Airport",
+      "address": "17 Reading Court Toronto, Ontario M9W 7K7"
+     },
+     {
+      "name": "Residence Inn Toronto Downtown/Entertainment District",
+      "address": "255 Wellington Street West Toronto, Ontario M5V 3P9"
+     },
+     {
+      "name": "The Ritz-Carlton, Toronto",
+      "address": "181 Wellington Street West Toronto, Ontario M5V 3G7"
+     },
+     {
+      "name": "Four Points by Sheraton Toronto Airport East",
+      "address": "2180 Islington Avenue Toronto, Ontario M9P 3P1"
+     },
+     {
+      "name": "Sheraton Centre Toronto Hotel",
+      "address": "123 Queen Street West Toronto, Ontario M5H 2M9"
+     },
+     {
+      "name": "Sheraton Gateway Hotel in Toronto International Airport",
+      "address": "Terminal 3, Toronto AMF, P.O. Box 3000 Toronto, Ontario L5P 1C4"
+     },
+     {
+      "name": "Sheraton Toronto Airport Hotel & Conference Centre",
+      "address": "801 Dixon Road Toronto, Ontario M9W 1J5"
+     },
+     {
+      "name": "The St. Regis Toronto",
+      "address": "325 Bay Street Toronto, Ontario M5H 4G3"
+     },
+     {
+      "name": "W Toronto",
+      "address": "90 Bloor Street East Toronto, Ontario M4W 1A7"
+     },
+     {
+      "name": "The Westin Harbour Castle, Toronto",
+      "address": "1 Harbour Square Toronto, Ontario M5J 1A6"
+     },
+     {
+      "name": "The Westin Toronto Airport",
+      "address": "950 Dixon Road Toronto, Ontario M9W 5N4"
+     },
+     {
+      "name": "Delta Hotels Trois Rivieres Conference Centre",
+      "address": "1620 Rue Notre-Dame Centre Trois-Rivières, Quebec G9A 6E5"
+     },
+     {
+      "name": "the DOUGLAS, Autograph Collection",
+      "address": "45 Smithe Street Vancouver, British Columbia V6B 0R3"
+     },
+     {
+      "name": "Delta Hotels Vancouver Downtown Suites",
+      "address": "550 West Hastings Street Vancouver, British Columbia V6B 1L6"
+     },
+     {
+      "name": "JW Marriott Parq Vancouver",
+      "address": "39 Smithe Street Vancouver, British Columbia V6B 0R3"
+     },
+     {
+      "name": "Vancouver Marriott Pinnacle Downtown Hotel",
+      "address": "1128 West Hastings Street Vancouver, British Columbia V6E 4R5"
+     },
+     {
+      "name": "Metropolitan Hotel Vancouver",
+      "address": "645 Howe Street Vancouver, British Columbia V6C 2Y9"
+     },
+     {
+      "name": "Residence Inn Vancouver Downtown",
+      "address": "1234 Hornby Street Vancouver, British Columbia V6Z 1W2"
+     },
+     {
+      "name": "Sheraton Vancouver Wall Centre",
+      "address": "1000 Burrard Street Vancouver, British Columbia V6Z 2R9"
+     },
+     {
+      "name": "The Westin Bayshore, Vancouver",
+      "address": "1601 Bayshore Drive Vancouver, British Columbia V6G 2V4"
+     },
+     {
+      "name": "Residence Inn Toronto Vaughan",
+      "address": "11 Interchange Way Vaughan, Ontario L4K 5W3"
+     },
+     {
+      "name": "SpringHill Suites Toronto Vaughan",
+      "address": "612 Applewood Crescent Vaughan, Ontario L4K 4B4"
+     },
+     {
+      "name": "Aloft Vaughan Mills",
+      "address": "151 Bass Pro Mills Drive Vaughan, Ontario L4K 0E6"
+     },
+     {
+      "name": "Element Vaughan Southwest",
+      "address": "6170 Highway 7 Vaughan, Ontario L4H 0R2"
+     },
+     {
+      "name": "Four Points by Sheraton Vaughan",
+      "address": "3400 Steeles Avenue West Vaughan/Toronto, Ontario L4K 1A2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Vernon",
+      "address": "5300 Anderson Way Vernon, British Columbia V1T 9V2"
+     },
+     {
+      "name": "Delta Hotels Victoria Ocean Pointe Resort",
+      "address": "100 Harbour Road Victoria, British Columbia V9A 0G1"
+     },
+     {
+      "name": "Victoria Marriott Inner Harbour",
+      "address": "728 Humboldt Street Victoria, British Columbia V8W 3Z5"
+     },
+     {
+      "name": "Four Points by Sheraton Victoria Gateway",
+      "address": "829 McCallum Road Victoria, British Columbia V9B 6W6"
+     },
+     {
+      "name": "The Westin Bear Mountain Golf Resort & Spa, Victoria",
+      "address": "1999 Country Club Way Victoria, British Columbia V9B 6R3"
+     },
+     {
+      "name": "Courtyard Waterloo St. Jacobs",
+      "address": "50 Benjamin Road East Waterloo, Ontario N2V 2J9"
+     },
+     {
+      "name": "Delta Hotels Waterloo",
+      "address": "110 Erb Street West Waterloo, Ontario N2L 0C6"
+     },
+     {
+      "name": "TownePlace Suites West Kelowna",
+      "address": "3551 Carrington Road West Kelowna, British Columbia V4T 3L8"
+     },
+     {
+      "name": "Delta Hotels Whistler Village Suites",
+      "address": "4308 Main Street Whistler, British Columbia V8E 1A9"
+     },
+     {
+      "name": "The Westin Resort & Spa, Whistler",
+      "address": "4090 Whistler Way Whistler, British Columbia V8E 1J3"
+     },
+     {
+      "name": "Residence Inn Whitby",
+      "address": "160 Consumers Dr Whitby, Ontario L1N 9S3"
+     },
+     {
+      "name": "Four Points by Sheraton Windsor Downtown",
+      "address": "430 Ouellette Avenue Windsor, Ontario N9A 1B2"
+     },
+     {
+      "name": "TownePlace Suites Windsor",
+      "address": "250 Dougall Avenue Windsor, Ontario N9A 7C6"
+     },
+     {
+      "name": "Courtyard Winnipeg Airport",
+      "address": "780 Powerhouse Road Winnipeg, Manitoba R3H 1C7"
+     },
+     {
+      "name": "Delta Hotels Winnipeg",
+      "address": "350 St Mary Avenue Winnipeg, Manitoba R3C 3J2"
+     },
+     {
+      "name": "Fairfield Inn & Suites Winnipeg",
+      "address": "1301 Ellice Avenue Winnipeg, Manitoba R3G 0N5"
+     },
+     {
+      "name": "Residence Inn Winnipeg",
+      "address": "1301 Ellice Avenue Winnipeg, Manitoba R3G 0N5"
+     },
+     {
+      "name": "Four Points by Sheraton Winnipeg South",
+      "address": "2935 Pembina Highway Winnipeg, Manitoba R3T 2H5"
+     }
+    ]
+   }
