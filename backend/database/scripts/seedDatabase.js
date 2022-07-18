@@ -93,5 +93,5 @@ const generateReservations = async function (hotelId, roomId) {
 
     await Reservation.collection.insertMany(reservations);
 
-    return reservations.map(r => r._id)
+    return reservations.map(r => r._id);
 }
