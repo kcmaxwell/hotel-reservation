@@ -2,9 +2,9 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const cors = require('cors');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+const seedRouter = require('./routes/seed');
 const { graphqlHTTP } = require('express-graphql');
 const schema = require('./schemas');
 
@@ -15,6 +15,22 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 
+const whitelist = process.env.WHITELISTED_DOMAINS
+	? process.env.WHITELISTED_DOMAINS.split(',').map((item) => item.trim())
+	: [];
+const corsOptions = {
+	origin: function (origin, callback) {
+		if (!origin || whitelist.indexOf(origin) !== -1) {
+			callback(null, true);
+		} else {
+			callback(new Error('Not allowed by CORS'));
+		}
+	},
+
+	credentials: true,
+};
+app.use(cors(corsOptions));
+
 app.use(
 	'/graphql',
 	graphqlHTTP({
@@ -22,6 +38,9 @@ app.use(
 		graphiql: true,
 	})
 );
+
+if (process.env.NODE_ENV === 'test' || process.env.NODE_ENV === 'jest')
+  app.use('/api/seed', seedRouter);
 
 app.use(
 	express.static(path.join(__dirname, '/../frontend/build'), { index: false })

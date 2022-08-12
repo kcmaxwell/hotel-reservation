@@ -4,8 +4,11 @@
   "description": "A mockup app for creating hotel reservations. Uses a React frontend and a Node Express backend, with GraphQL.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node backend/bin/www",
+    "cypress": "cd frontend && npm run cypress",
+    "test-front": "cd frontend && npm start",
+    "test-back": "cd backend && npm run test-server",
+    "test": "npm-run-all -p -r cypress test-front test-back",
     "heroku-postbuild": "npm-run-all install-front install-back",
     "install-front": "cd frontend && npm i && npm run build",
     "install-back": "cd backend && npm i"

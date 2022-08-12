@@ -8,7 +8,7 @@ const Room = require('../../models/room');
 const Customer = require('../../models/customer');
 const Reservation = require('../../models/reservation');
 
-async function seedDatabase() {
+exports.seedDatabase = async function () {
 	await emptyDatabase();
 	await seedHotels();
 }
